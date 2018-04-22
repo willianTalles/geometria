@@ -21,7 +21,6 @@ class Cubo{
         void setVolume();
 
         double getAresta();
-        double getAltura();
         double getArea();
         double getVolume();
 
